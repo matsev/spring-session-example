@@ -1,0 +1,14 @@
+# OS X
+.DS_Store
+
+# IntelliJ
+.idea
+*.iml
+out
+gen
+
+# Maven
+target/
+
+# Tomcat instances when running locally
+tomcat.*/
